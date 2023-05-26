@@ -1,0 +1,7 @@
+.cor-gradiente{
+    background: rgb(230,212,228);
+background: linear-gradient(90deg, rgba(230,212,228,1) 0%, rgba(237,157,219,1) 35%);
+}
+.logo-redonda{
+    border-radius: 50%;
+}
